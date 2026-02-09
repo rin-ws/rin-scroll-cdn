@@ -44,11 +44,11 @@ Dieses Repository stellt ausschließlich **die fertigen CDN-Builds** von RINscro
 
 ### CSS
 ```
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/rin-ws/rin-scroll-cdn@v1.0.0/scroll.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/rin-ws/rin-scroll-cdn@v1.0.1/scroll.min.css">
 ```
 ### JavaScript
 ```
-<script src="https://cdn.jsdelivr.net/gh/rin-ws/rin-scroll-cdn@v1.0.0/scroll.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/rin-ws/rin-scroll-cdn@v1.0.1/scroll.min.js"></script>
 ```
 
 ## 🚀 Quick Start
